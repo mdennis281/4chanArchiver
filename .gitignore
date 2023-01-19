@@ -1,0 +1,5 @@
+images/*
+*.json
+*.pyc
+*.pyo
+env/*
